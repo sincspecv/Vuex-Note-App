@@ -1,6 +1,6 @@
 # vue-notes
 
-> A Vue.js project
+> A Vue.js project based on [this tutorial](https://coligo.io/learn-vuex-by-building-notes-app/), updated for Vue/Vuex 2.0
 
 ## Build Setup
 
